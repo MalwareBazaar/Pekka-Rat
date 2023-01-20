@@ -113,3 +113,12 @@ Special Features
 - [x] Clean APK FUD Crypted
 - [x] Run Automatically After Restart Phone
 - [x] Bypass Bank App Screen
+
+# Pekka-Rat Rat Download Links
+Shorten Link If You Want To Support Us:
+
+Soon
+
+Direct Download Link :
+
+Soon
