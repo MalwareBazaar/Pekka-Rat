@@ -53,7 +53,7 @@ Microphone Capture
 - [x] Record Call
 
 Location
-- Live Location On Map
+- [x] Live Location On Map
 
 Fun Tools
 - [x] Call Numbers
