@@ -1,4 +1,23 @@
+![image](https://0xploit.com/uploads/1674227840.jpg)
+</p>
+<p align="center">
+<a href="https://0xploit.com"><img title="Version" src="https://img.shields.io/badge/Version-5.0-green.svg?style=flat-square"></a>
+<a href="https://0xploit.com"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
 
+</p>
+<p align="center">
+<a href="https://github.com/MalwareBazaar"><img title="Github" src="https://img.shields.io/badge/MalwareBazaar-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/channel/UCAbQQzLDXD3Y3ATMwmAIb3w"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MalwareBazaar-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+<p align="center">
+
+<a href="https://github.com/MalwareBazaar"><img title="Followers" src="https://img.shields.io/github/followers/MalwareBazaar?color=blue&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Stars" src="https://img.shields.io/github/stars/MalwareBazaar/Pekka-Rat?color=red&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Forks" src="https://img.shields.io/github/forks/MalwareBazaar/Pekka-Rat?color=red&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Watching" src="https://img.shields.io/github/watchers/MalwareBazaar/Pekka-Rat?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+</p>
 
 Pekka Rat : is An Android Remote Control Tool Allows You To Control And Monitor Android Phone From Your PC.  This Rat (Remote Access Trojan ) Support From android 5 to 13. 
 
